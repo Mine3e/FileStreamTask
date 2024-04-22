@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\JSONTask.exe
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\JSONTask.deps.json
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\JSONTask.runtimeconfig.json
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\JSONTask.dll
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\JSONTask.pdb
+C:\Users\hp\source\repos\JSONTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.csproj.Up2Date
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.dll
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\refint\JSONTask.dll
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.pdb
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\JSONTask.genruntimeconfig.cache
+C:\Users\hp\source\repos\JSONTask\obj\Debug\net6.0\ref\JSONTask.dll

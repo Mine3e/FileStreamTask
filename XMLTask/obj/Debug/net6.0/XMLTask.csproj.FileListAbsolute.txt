@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\XMLTask\bin\Debug\net6.0\XMLTask.exe
+C:\Users\hp\source\repos\XMLTask\bin\Debug\net6.0\XMLTask.deps.json
+C:\Users\hp\source\repos\XMLTask\bin\Debug\net6.0\XMLTask.runtimeconfig.json
+C:\Users\hp\source\repos\XMLTask\bin\Debug\net6.0\XMLTask.dll
+C:\Users\hp\source\repos\XMLTask\bin\Debug\net6.0\XMLTask.pdb
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.AssemblyInfo.cs
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.dll
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\refint\XMLTask.dll
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.pdb
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\XMLTask.genruntimeconfig.cache
+C:\Users\hp\source\repos\XMLTask\obj\Debug\net6.0\ref\XMLTask.dll
